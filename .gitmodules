@@ -1,0 +1,3 @@
+[submodule "github-action"]
+	path = github-action
+	url = https://github.com/renovatebot/github-action.git
